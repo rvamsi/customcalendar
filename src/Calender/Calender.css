@@ -1,0 +1,10 @@
+.App-calender {
+  width: 210px;
+  display: inline-table;
+  background: #ffffff;
+  margin: 10px; }
+  .App-calender .App-cell {
+    display: inline-table; }
+  .App-calender .App-calender-info {
+    text-align: center;
+    border-bottom: 1px solid #cdcdcd; }
